@@ -1,4 +1,4 @@
-# This repository conatians Enterprise-wide NIST Cybersecurity Assessment Report.
+# This repository contains Enterprise-wide NIST Cybersecurity Assessment Report.
 
 ## In this NIST Report I have created a NIST Cybersecurity report for Company named Generic Company Ltd.
 
@@ -11,5 +11,5 @@
  3) **Protect**
 
  4) **Respond**
- 
+
  5) **Recover**
