@@ -1,15 +1,15 @@
-# This repository contains Enterprise-wide NIST Cybersecurity Assessment Report.
+# NIST Cybersecurity Assessment
 
-## In this NIST Report I have created a NIST Cybersecurity report for Company named Generic Company Ltd.
+## Overview
 
-# Steps: 
+This repository contains the results and documentation for an enterprise-wide cybersecurity assessment conducted using the NIST Cybersecurity Framework (CSF). The assessment evaluates the organization's current cybersecurity posture, identifies gaps, and provides recommendations for improving security across various domains.
 
- 1) **Identify**
+## NIST Cybersecurity Framework
 
- 2) **Detect**
+The NIST Cybersecurity Framework is a comprehensive guide that helps organizations manage and reduce cybersecurity risk. The framework consists of five core functions:
 
- 3) **Protect**
-
- 4) **Respond**
-
- 5) **Recover**
+- **Identify**: Understand the organization's risk to systems, assets, data, and capabilities.
+- **Protect**: Develop and implement safeguards to ensure delivery of critical services.
+- **Detect**: Implement activities to identify the occurrence of a cybersecurity event.
+- **Respond**: Take action regarding a detected cybersecurity incident.
+- **Recover**: Maintain resilience and restore any capabilities or services impaired by cybersecurity events.
